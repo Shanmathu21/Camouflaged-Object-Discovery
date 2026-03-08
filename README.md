@@ -18,7 +18,7 @@ Indraprastha Institute of Information Technology, Delhi, India
 
 ## 🧠 Overview
 
-This repository presents a **TensorFlow 2.x reimplementation** of the **Saliency Enhancement Network (SEN)** module from the original **CIRCOD** framework.  
+This repository presents a **TensorFlow  reimplementation** of the **Saliency Enhancement Network (SEN)** module from the original **CIRCOD** framework.  
 Our goal is to reproduce and simplify the key idea behind **Co-Saliency Inspired Referring Camouflaged Object Discovery**, which detects objects concealed within their surroundings by leveraging an additional **referring image**.
 
 The model performs **camouflaged object segmentation** on benchmark datasets such as **COD10K**, **NC4K**, and **CAMO**, demonstrating the applicability of TensorFlow for this challenging visual task.
